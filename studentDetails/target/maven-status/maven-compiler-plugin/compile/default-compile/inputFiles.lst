@@ -1,0 +1,14 @@
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\entity\Academic.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\service\studentService.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\StudentDetailsApplication.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\serviceImpl\studentServiceImpl.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\dto\AcademicDto.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\entity\Student.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\response\ApiResponse.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\exception\StudentNotFoundException.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\exception\GlobalExceptionHandler.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\exception\ResourceNotFoundException.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\repository\studentRepository.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\controller\studentController.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\mapper\StudentMapper.java
+C:\Users\siva.patnaik\Desktop\studentDetails\src\main\java\com\student\studentDetails\dto\StudentDto.java

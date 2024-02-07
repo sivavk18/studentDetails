@@ -1,0 +1,17 @@
+com\student\studentDetails\StudentDetailsApplication.class
+com\student\studentDetails\serviceImpl\studentServiceImpl.class
+student\studentDetails\dto\AcademicDto.class
+com\student\studentDetails\service\studentService.class
+com\student\studentDetails\exception\StudentNotFoundException.class
+com\student\studentDetails\mapper\StudentMapperImpl.class
+com\student\studentDetails\dto\StudentDto.class
+com\student\studentDetails\response\ApiResponse$ApiResponseBuilder.class
+com\student\studentDetails\repository\studentRepository.class
+com\student\studentDetails\response\ApiResponse.class
+com\student\studentDetails\controller\studentController.class
+com\student\studentDetails\entity\Academic.class
+com\student\studentDetails\entity\Student.class
+com\student\studentDetails\mapper\StudentMapper.class
+com\student\studentDetails\dto\StudentDto$StudentDtoBuilder.class
+com\student\studentDetails\exception\ResourceNotFoundException.class
+com\student\studentDetails\exception\GlobalExceptionHandler.class
